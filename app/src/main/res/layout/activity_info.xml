@@ -5,25 +5,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:orientation="vertical"
     android:background="@drawable/background">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/intro"
-        android:layout_gravity="center"
-
-        />
-
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/info_txt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_weight="1"
-        android:text=": ㅈ됬다"
-        android:textSize="50dp"
+        android:text="  [ 사용법 ]\n노선 버튼 클릭 했을때 나오는 그림에서 \n
+색이 명확하게 그려져 있는 역들은 \n화장실이 게이트 안에 있는 역들임 ㅇㅇ
+\n자세한 내용은 그림 위에 있는 범례 를 읽어보셈."
+        android:textSize="20dp"
         android:textStyle="bold"
         android:textColor="@color/black"/>
 

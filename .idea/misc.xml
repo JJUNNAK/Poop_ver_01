@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/drawable/background.xml" value="0.153" />
+        <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/drawable/btn_src.xml" value="0.153" />
         <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/drawable/btn_src_line1.xml" value="0.1" />
         <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/drawable/btn_src_line2.xml" value="0.153" />
         <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/drawable/btn_src_line3.xml" value="0.153" />
@@ -15,6 +16,7 @@
         <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/drawable/btn_src_line9.xml" value="0.153" />
         <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/drawable/btn_src_linebundang.xml" value="0.153" />
         <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/drawable/btn_src_linemiddle.xml" value="0.153" />
+        <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/layout/activity_info.xml" value="0.1" />
         <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/layout/activity_intro.xml" value="0.17916666666666667" />
         <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/layout/activity_line_1.xml" value="0.17916666666666667" />
         <entry key="..\:/Users/nackjun/AndroidStudioProjects/Poop_ver_01/app/src/main/res/layout/activity_line_2.xml" value="0.17916666666666667" />

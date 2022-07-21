@@ -124,6 +124,16 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //설명 버튼 클릭시 화면전환
+        Button info_btn = (Button) findViewById(R.id.info_btn); //버튼 아이디
+        info_btn.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View view){                            //연결할 엑티비티
+                Intent intent = new Intent(getApplicationContext(), InfoActivity.class);
+                startActivity(intent);
+            }
+        });
+
 
 
 
