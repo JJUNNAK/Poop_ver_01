@@ -1,4 +1,16 @@
 package com.nackjun.poop_ver_01;
 
-public class Line_2Activity {
+import androidx.appcompat.app.AppCompatActivity;
+import android.os.Bundle;
+import androidx.annotation.Nullable;
+
+
+public class Line_2Activity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_line_2); // 보여줄 화면 설정
+    }
+
 }

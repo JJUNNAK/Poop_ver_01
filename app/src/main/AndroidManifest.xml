@@ -19,6 +19,18 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity"/>
+        <!--추가 안해주면 앱 강제종료됨.-->
+        <activity android:name=".Line_1Activity"/>
+        <activity android:name=".Line_2Activity"/>
+        <activity android:name=".Line_3Activity"/>
+        <activity android:name=".Line_4Activity"/>
+        <activity android:name=".Line_5Activity"/>
+        <activity android:name=".Line_6Activity"/>
+        <activity android:name=".Line_7Activity"/>
+        <activity android:name=".Line_8Activity"/>
+        <activity android:name=".Line_9Activity"/>
+        <activity android:name=".Line_MiddleActivity"/>
+        <activity android:name=".Line_BundangActivity"/>
     </application>
 
 </manifest>
