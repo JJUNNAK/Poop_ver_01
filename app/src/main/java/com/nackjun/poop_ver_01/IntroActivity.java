@@ -18,7 +18,7 @@ public class IntroActivity extends AppCompatActivity {
             @Override
             public void run() {
                 Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                startActivity(intent); //인트로 실행 후 바로 MainActivity로 넘어감.
+                startActivity(intent); //인트로 실행 후 바로 MainActivity 넘김
                 finish();
             }
         }, 1800); //1.8초 후 인트로 실행

@@ -20,6 +20,7 @@
         </activity>
         <activity android:name=".MainActivity"/>
         <!--추가 안해주면 앱 강제종료됨.-->
+        <activity android:name=".Line_Menu"/>
         <activity android:name=".Line_1Activity"/>
         <activity android:name=".Line_2Activity"/>
         <activity android:name=".Line_3Activity"/>
