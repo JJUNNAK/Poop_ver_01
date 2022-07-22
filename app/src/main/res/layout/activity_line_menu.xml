@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/intro" />
+    <Button
+        android:id="@+id/info_btn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="?" />
+
+    <Button
+        android:id="@+id/line_1_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_line1"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="1호선" />
+
+    <Button
+        android:id="@+id/line_2_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_line2"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="2호선" />
+
+    <Button
+        android:id="@+id/line_3_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_line3"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="3호선" />
+
+    <Button
+        android:id="@+id/line_4_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_line4"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="4호선" />
+
+    <Button
+        android:id="@+id/line_5_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_line5"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="5호선" />
+
+    <Button
+        android:id="@+id/line_6_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_line6"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="6호선" />
+
+    <Button
+        android:id="@+id/line_7_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_line7"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="7호선" />
+
+    <Button
+        android:id="@+id/line_8_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_line8"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="8호선" />
+
+    <Button
+        android:id="@+id/line_9_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_line9"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="9호선" />
+
+    <Button
+        android:id="@+id/line_middle_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_linemiddle"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="경의중앙선" />
+
+    <Button
+        android:id="@+id/line_bundang_btn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_src_linebundang"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="분당선" />
+
+
+</LinearLayout>
